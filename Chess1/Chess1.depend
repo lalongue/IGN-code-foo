@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1307145019 source:c:\documents and settings\johnthefisherman\my documents\chess\chess1\main.cpp
+	<iostream>
+
+1307256955 source:c:\documents and settings\d charbonneau\my documents\chess\chess1\main.cpp
+	<iostream>
+	<vector>
+
